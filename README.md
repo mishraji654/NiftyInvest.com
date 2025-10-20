@@ -104,9 +104,9 @@ fetch("stocks.json")
     // hide loader
     table.setData(data);
   });
+```
 
 
-  
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
