@@ -106,6 +106,24 @@ fetch("stocks.json")
   });
 ```
 
+# 💬 Tidio Chatbot Integration (Already Created)
+
+If you’ve already built and customized your chatbot in Tidio, follow these quick steps to integrate it into your trading website.
+
+---
+
+## ✅ Step 1: Copy Your Tidio Integration Code
+
+1. Go to your **Tidio Dashboard**.
+2. Click on **Settings → Channels → Live Chat**.
+3. Scroll to the **“Installation”** section.
+4. Copy the code snippet that looks like this:
+
+```html
+<script src="//code.tidio.co/youruniqueid.js" async></script>
+```
+
+
 
 ## Screenshots
 
