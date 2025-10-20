@@ -113,19 +113,14 @@ fetch("stocks.json")
 
 ![App Screenshot](./SS2.png)
 
-
 ![App Screenshot](./SS3.png)
 
-
 ![App Screenshot](./SS4.png)
-
-
 
 ![App Screenshot](./SS5.png)
 
 ![App Screenshot](./SS6.png)
 
-![App Screenshot](./SS7.png)
 
 
 
