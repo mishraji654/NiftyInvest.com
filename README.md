@@ -109,19 +109,23 @@ fetch("stocks.json")
 
 ## Screenshots
 
-![App Screenshot](./SS1.jpg)
+![App Screenshot](./SS1.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./SS2.png)
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./SS3.png)
+
+
+![App Screenshot](./SS4.png)
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./SS5.png)
+
+![App Screenshot](./SS6.png)
+
+![App Screenshot](./SS7.png)
 
 
 
